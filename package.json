@@ -1,0 +1,41 @@
+{
+  "name": "000_codewithmosh.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect=5858 -r ts-node/register ./src/index.ts",
+    "dev": "nodemon",
+    "build": "tsc"
+  },
+  "SEE_tsconfig": "https://medium.com/create-a-server-with-nodemon-express-typescript/create-a-server-with-nodemon-express-typescript-f7c88fb5ee71",
+  "nodemonConfig": {
+    "ignore": [
+      "**/*.test.ts",
+      "**/*.spec.ts",
+      ".git",
+      "node_modules",
+      "frontned"
+    ],
+    "watch": [
+      "src"
+    ],
+    "exec": "npm start",
+    "ext": "ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "nodemon": "^1.19.4",
+    "puppeteers": "0.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.5",
+    "@types/puppeteer": "^1.20.2",
+    "eslint": "^6.6.0",
+    "eslint-plugin-import": "^2.18.2",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.7.2"
+  }
+}

@@ -1,0 +1,1367 @@
+{
+    "title": "Angular",
+    "url": "https://coursehunter.net/frontend/angular",
+    "courses": [
+        {
+            "title": "Angular Pro",
+            "originTitle": "Angular Pro",
+            "url": "https://coursehunter.net/course/angular-pro",
+            "materials": [
+                "https://dl1.coursehunter.net/ua-angular-pro.zip",
+                "https://vs1.coursehunter.net/ua-angular-pro/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 4 c Нуля до Профи",
+            "originTitle": "Angular 4 c Нуля до Профи: Полное руководство для современной веб-разработки",
+            "url": "https://coursehunter.net/course/angular-4-c-nulya-do-profi",
+            "materials": [
+                "https://vs1.coursehunter.net/webformyself-angular4/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "FullStack-Мастер. Разработка CRM-системы на Node.js, Express, Angular 6",
+            "originTitle": "FullStack-Мастер. Разработка CRM-системы на Node.js, Express, Angular 6",
+            "url": "https://coursehunter.net/course/fullstack-master-razrabotka-crm-sistemy-na-node-js-express-angular-6",
+            "materials": [
+                "https://vs1.coursehunter.net/w4ms-fs-node/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 8 (формально Angular 2) - Полное Руководство",
+            "originTitle": "Angular 8 (formerly Angular 2) - The Complete Guide",
+            "url": "https://coursehunter.net/course/udemy-angular-4-2-the-complete-guide",
+            "materials": [
+                "https://dl1.coursehunter.net/Angular-8-The-Complete-Guide.zip",
+                "https://vs1.coursehunter.net/udemy-angular4/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 8 Firebase курс (проект)",
+            "originTitle": "The Angular Firebase Project Course",
+            "url": "https://coursehunter.net/course/angular-8-firebase-kurs-proekt",
+            "materials": [
+                "https://dl1.coursehunter.net/fsio-a8fpfs.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Тестирование Angular: мастер-класс (с бесплатной электронной книгой)",
+            "originTitle": "Angular Testing Masterclass (with FREE E-Book)",
+            "url": "https://coursehunter.net/course/testirovanie-angular-master-klass-s-besplatnoy-elektronnoy-knigoy",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-tamcwfebn.zip",
+                "https://vs3.coursehunter.net/udemy-tamcwfebn/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "JAVASCRIPT + ANGULAR 8 + JQUERY + REACT + NODE + TYPESCRIPT",
+            "originTitle": "JAVASCRIPT + ANGULAR 8 + JQUERY + REACT + NODE + TYPESCRIPT",
+            "url": "https://coursehunter.net/course/javascript-angular-8-jquery-react-node-typescript",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-ja8jqntrom.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Управление состоянием интерфейса с Angular Router",
+            "originTitle": "Manage UI State with the Angular Router",
+            "url": "https://coursehunter.net/course/upravlenie-sostoyaniem-interfeysa-s-angular-router",
+            "materials": [
+                "https://dl1.coursehunter.net/egghead-uistatewar.zip",
+                "https://vs3.coursehunter.net/egghead-uistatewar/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Front End Архитектура Компонентов (React и Angular)",
+            "originTitle": "Front End Component Architecture (React and Angular)",
+            "url": "https://coursehunter.net/course/front-end-arhitektura-komponentov-react-i-angular",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-fecaranda.zip",
+                "https://vs3.coursehunter.net/udemy-fecaranda/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 8 с нуля до профессионала. Полное руководство",
+            "originTitle": "Angular 8 с нуля до профессионала. Полное руководство",
+            "url": "https://coursehunter.net/course/angular-8-s-nulya-do-professionala-polnoe-rukovodstvo",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-vma8.zip",
+                "https://vs3.coursehunter.net/udemy-vma8/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Разработка архитектуры реактивных Angular приложений с Redux и NgRx",
+            "originTitle": "Architecting Reactive Angular Applications with Redux & NgRx",
+            "url": "https://coursehunter.net/course/razrabotka-arhitektury-reaktivnyh-angular-prilozheniy-s-redux-i-ngrx",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-aaarapssrng.zip",
+                "https://vs3.coursehunter.net/udemy-aaarapssrng/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Практический Angular: Создаем регистрационную форму",
+            "originTitle": "Hands-on Angular: Create a Registration Form",
+            "url": "https://coursehunter.net/course/prakticheskiy-angular-sozdaem-registracionnuyu-formu",
+            "materials": [
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson1.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson2.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson3.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson4.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson5.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson6.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson7.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson8.mp4",
+                "https://vs3.coursehunter.net/envato-hooacrform/lesson9.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Реактивное управление состоянием в Angular с ngrx",
+            "originTitle": "Reactive State Management in Angular with ngrx",
+            "url": "https://coursehunter.net/course/reaktivnoe-upravlenie-sostoyaniem-v-angular-s-ngrx",
+            "materials": [
+                "https://dl1.coursehunter.net/egghead-rsmiawngrx.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Начало работы с Angular Elements",
+            "originTitle": "Getting Started with Angular Elements",
+            "url": "https://coursehunter.net/course/nachalo-raboty-s-angular-elements",
+            "materials": [
+                "https://dl1.coursehunter.net/egghead-gswae.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Изучите Angular Router на реальных примерах",
+            "originTitle": "Learn Angular Router for Real-World Applications",
+            "url": "https://coursehunter.net/course/izuchite-angular-router-na-realnyh-primerah",
+            "materials": [
+                "https://dl1.coursehunter.net/egghead-arirwa.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 7+ Микросервисы с Spring Boot и Spring Cloud",
+            "originTitle": "Angular 7 + Microservices with Spring Boot and Spring Cloud",
+            "url": "https://coursehunter.net/course/mikroservisy-angular-7-s-spring-boot-i-spring-cloud",
+            "materials": [
+                "https://dl1.coursehunter.net/Angular7MicroserviceswithSpringBootandSpringCloud.zip",
+                "https://vs3.coursehunter.net/udemy-a7msbsc/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular приложения с Angular Material Components",
+            "originTitle": "Structure Angular Apps with Angular Material Components",
+            "url": "https://coursehunter.net/course/angular-prilozheniya-s-angular-material-components",
+            "materials": [
+                "https://dl1.coursehunter.net/Structure-Angular-Apps-with-Angular-Material-Components.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular архитектура и лучшие практики",
+            "originTitle": "Angular Architecture and Best Practices",
+            "url": "https://coursehunter.net/course/angular-arhitektura-i-luchshie-praktiki",
+            "materials": [
+                "https://dl1.coursehunter.net/Angular-Architecture-and-Best-Practices.zip",
+                "https://vs3.coursehunter.net/ps-aaabp/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular NgRx: Начало работы",
+            "originTitle": "Angular NgRx: Getting Started",
+            "url": "https://coursehunter.net/course/angular-ngrx-nachalo-raboty",
+            "materials": [
+                "https://dl1.coursehunter.net/Angular-NgRx-Getting-Started.zip",
+                "https://vs3.coursehunter.net/ps-angs/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular Трансформация",
+            "originTitle": "Angular Трансформация",
+            "url": "https://coursehunter.net/course/angular-transformaciya",
+            "materials": [
+                "https://dl1.coursehunter.net/jse-at.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "NgRx в глубине (Angular 8, с БЕСПЛАТНОЙ электронной книгой)",
+            "originTitle": "NgRx In Depth (Angular 8, with FREE E-Book)",
+            "url": "https://coursehunter.net/course/ngrx-v-glubine-angular-7-i-ngrx-7-s-besplatnoy-elektronnoy-knigoy",
+            "materials": [
+                "https://dl1.coursehunter.net/NgRx-In-Depth-Angular-7-and-NgRx-7-with-FREE-E-Book).zip",
+                "https://vs2.coursehunter.net/udemy-ngrxdepth-a7-book/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "NativeScript + Angular: Создание нативных iOS, Android и веб-приложений",
+            "originTitle": "NativeScript + Angular: Build Native iOS, Android & Web Apps",
+            "url": "https://coursehunter.net/course/nativescript-angular-sozdanie-nativnyh-ios-android-i-veb-prilozheniy",
+            "materials": [
+                "https://dl1.coursehunter.net/NativeScript-Angular-Build-Native-iOS-Android-Web-Apps.zip",
+                "https://vs2.coursehunter.net/udemy-max-ns/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Реактивный Angular с NgRx",
+            "originTitle": "Reactive Angular with NgRx",
+            "url": "https://coursehunter.net/course/reaktivnyy-angular-s-ngrx",
+            "materials": [
+                "https://dl1.coursehunter.net/Reactive-Angular-with-NgRx.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Продвинутые паттерны Angular компонентов",
+            "originTitle": "Advanced Angular Component Patterns",
+            "url": "https://coursehunter.net/course/prodvinutye-patterny-angular-komponentov",
+            "materials": [
+                "https://dl1.coursehunter.net/egghead-adv-ac-patterns.zip",
+                "https://vs2.coursehunter.net/egghead-adv-ac-patterns/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создание адаптивного SPA с Angular",
+            "originTitle": "Создание адаптивного SPA с Angular",
+            "url": "https://coursehunter.net/course/sozdanie-adaptivnogo-spa-s-angular",
+            "materials": [
+                "https://dl1.coursehunter.net/itvdn-angular-spa.zip",
+                "https://vs2.coursehunter.net/itvdn-angular-spa-omg/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Реактивность и Тестирование Angular",
+            "originTitle": "Angular Reactive & Angular Testing",
+            "url": "https://coursehunter.net/course/reaktivnost-i-testirovanie-angular",
+            "materials": [
+                "https://vs2.coursehunter.net/fm-angular-rt/lesson1.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular Core",
+            "originTitle": "Angular Core",
+            "url": "https://coursehunter.net/course/angular-core",
+            "materials": [
+                "https://dl1.coursehunter.net/Angular-Core.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Продвинутый курс по Angular",
+            "originTitle": "Продвинутый курс по Angular",
+            "url": "https://coursehunter.net/course/prodvinutyy-kurs-po-angular",
+            "materials": [
+                "https://dl1.coursehunter.net/ljsr-adv-angular.zip",
+                "https://vs2.coursehunter.net/ljsr-adv-angular/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создайте приложение с помощью ASPNET Core и Angular с нуля",
+            "originTitle": "Build an app with ASPNET Core and Angular from scratch",
+            "url": "https://coursehunter.net/course/sozdayte-prilozhenie-s-pomoshchyu-aspnet-core-i-angular-s-nulya",
+            "materials": [
+                "https://vs2.coursehunter.net/udemy-aspnetcore-angular-app/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular прогрессивные веб-приложения (PWA) МастерКласс + Книга",
+            "originTitle": "Angular Progressive Web Apps (PWA) MasterClass & FREE E-Book",
+            "url": "https://coursehunter.net/course/angular-progressivnye-veb-prilozheniya-pwa-masterklass-kniga",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-au-angular-pwa.zip",
+                "https://vs1.coursehunter.net/udemy-au-angular-pwa/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Полное руководство по Angular, React и Node | Клон Airbnb",
+            "originTitle": "Angular 6 (Angular 2+) & React 16 - The Complete App Guide",
+            "url": "https://coursehunter.net/course/polnoe-rukovodstvo-po-angular-react-i-node-klon-airbnb",
+            "materials": [
+                "https://vs2.coursehunter.net/udemy-airbnb-node-ang-react/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создайте свой первый Angular сайт",
+            "originTitle": "Build Your First Angular Website",
+            "url": "https://coursehunter.net/course/sozdayte-svoy-pervyy-angular-sayt",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-1angular-website/lesson18.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создайте интерактивное javascript меню",
+            "originTitle": "Build an Interactive JavaScript Food Menu",
+            "url": "https://coursehunter.net/course/sozdayte-interaktivnoe-javascript-menyu",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-js-menu/lesson14.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular, Ionic и Node: Создайте реальное веб и чат-приложение",
+            "originTitle": "Angular, Ionic & Node: Build A Real Web & Mobile Chat App",
+            "url": "https://coursehunter.net/course/angular-ionic-i-node-sozdayte-realnoe-veb-i-chat-prilozhenie",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-ain-course/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "SEO Friendly Прогрессивные веб-приложения (PWA) с Angular Universal",
+            "originTitle": "SEO Friendly Progressive Web Applications with Angular Universal",
+            "url": "https://coursehunter.net/course/seo-friendly-progressivnye-veb-prilozheniya-pwa-s-angular-universal",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson7.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson8.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson9.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson10.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson11.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson12.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson13.mp4",
+                "https://vs1.coursehunter.net/egghead-seo-pwa-angular-u/lesson14.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Изучите HTTP в Angular",
+            "originTitle": "Learn HTTP in Angular",
+            "url": "https://coursehunter.net/course/izuchite-http-v-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson7.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson8.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson9.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson10.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-http-course/lesson11.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Online Курс Angular Basic - Прокачай свой скил в Angular",
+            "originTitle": "Online Курс Angular Basic - Прокачай свой скил в Angular",
+            "url": "https://coursehunter.net/course/online-kurs-angular-basic-prokachay-svoy-skil-v-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/ec-angular-basic/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создавайте приложения стиля Redux с помощью Angular, RxJS и ngrx/store",
+            "originTitle": "Build Redux Style Applications with Angular, RxJS, and ngrx/store",
+            "url": "https://coursehunter.net/course/sozdavayte-prilozheniya-stilya-redux-s-pomoshchyu-angular-rxjs-i-ngrx-store",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson7.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson8.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson9.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson10.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson11.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson12.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson13.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson14.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson15.mp4",
+                "https://vs1.coursehunter.net/egghead-redux-angular-ngrx-store/lesson16.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular - концепции, код и коллективная мудрость",
+            "originTitle": "Angular - Concepts, Code and Collective Wisdom",
+            "url": "https://coursehunter.net/course/angular-koncepcii-kod-i-kollektivnaya-mudrost",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-concepts-code-and-more/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Полный курс по Angular 2, 4, 5, 6 в глубине - Легкий путь!",
+            "originTitle": "Complete Angular 2, 4, 5, 6 - Indepth - In Easy way!",
+            "url": "https://coursehunter.net/course/polnyy-kurs-po-angular-2-4-5-6-v-glubine-legkiy-put",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-2-4-5-6-easy-new/complete-angular-indepth-easy.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Настольные приложения с Angular, Firestore и Electron",
+            "originTitle": "Desktop apps with Angular, Firestore and Electron",
+            "url": "https://coursehunter.net/course/nastolnye-prilozheniya-s-angular-firestore-i-electron",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson1.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson2.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson3.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson4.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson5.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson6.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson7.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson8.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson9.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson10.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson11.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson12.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson13.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson14.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson15.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson16.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson17.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson18.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson19.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson20.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson21.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson22.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson23.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson24.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson25.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson26.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson27.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson28.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson29.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson30.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson31.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson32.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson33.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson34.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson35.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson36.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson37.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson38.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson39.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson40.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson41.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson42.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson43.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson44.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson45.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson46.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson47.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson48.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson49.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson50.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson51.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson52.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson53.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson54.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson55.mp4",
+                "https://vs1.coursehunter.net/udemy-apps-with-angular-electron-firestore-new/lesson56.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "GraphQL c Angular и Apollo - Полное Full-stack Руководство",
+            "originTitle": "GraphQL with Angular & Apollo - The Full-stack Guide",
+            "url": "https://coursehunter.net/course/graphql-c-angular-i-apollo-polnoe-full-stack-rukovodstvo",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-graphql-angular-apollo-fs-guide.zip",
+                "https://vs1.coursehunter.net/udemy-graphql-angular-apollo-fs-guide/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Как стилизовать Angular компоненты",
+            "originTitle": "Understand How to Style Angular Components",
+            "url": "https://coursehunter.net/course/kak-stilizovat-angular-komponenty",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson7.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson8.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson9.mp4",
+                "https://vs1.coursehunter.net/egghead-how-to-style-angular-components-c/lesson10.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular Service Injection с Dependency Injector (DI)",
+            "originTitle": "Angular Service Injection with the Dependency Injector (DI)",
+            "url": "https://coursehunter.net/course/angular-service-injection-s-dependency-injector-di",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson7.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson8.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson9.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson10.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson11.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-si-with-di/lesson12.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "NGRX Store + Effects",
+            "originTitle": "NGRX Store + Effects",
+            "url": "https://coursehunter.net/course/ngrx-store-effects",
+            "materials": [
+                "https://dl1.coursehunter.net/ultimate-angular-ngrx-plus-effects.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular HTTP и Observables",
+            "originTitle": "Angular HTTP and Observables",
+            "url": "https://coursehunter.net/course/angular-http-i-observables",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson18.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson19.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-http-observables/lesson20.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Клон Amazon: Angular5 + Node + Stripe + Поисковый движок",
+            "originTitle": "Build Amazon Clone: Angular5 + Node + Stripe + Search Engine",
+            "url": "https://coursehunter.net/course/klon-amazon-angular5-node-stripe-poiskovaya-sistema",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-amazon-clone-angular-search-etc/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создаем MEAN приложение \"CodePost\" - Full Stack",
+            "originTitle": "Create a MEAN App Called CodePost - Full Stack",
+            "url": "https://coursehunter.net/course/sozdaem-mean-prilozhenie-codepost-full-stack",
+            "materials": [
+                "https://vs1.coursehunter.net/coursetro-mean-codepost/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создаем персональное портфолио используя Angular 2 и Behance",
+            "originTitle": "Create a Personal Portfolio using Angular 2 & Behance",
+            "url": "https://coursehunter.net/course/sozdaem-personalnoe-portfolio-ispolzuya-angular-2-i-behance",
+            "materials": [
+                "https://vs1.coursehunter.net/coursetro-personal-portfolio-ab/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular Advanced",
+            "originTitle": "ANGULAR ADVANCED",
+            "url": "https://coursehunter.net/course/angular-advanced",
+            "materials": [
+                "https://vs1.coursehunter.net/itvdn-angular-advanced-course-cc/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создание динамических компонентов в Angular",
+            "originTitle": "Create Dynamic Components in Angular",
+            "url": "https://coursehunter.net/course/sozdanie-dinamicheskih-komponentov-v-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson1.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson2.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson3.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson4.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson5.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson6.mp4",
+                "https://vs1.coursehunter.net/egghead-dynamic-components-in-angular-apps/lesson7.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Начало работы с Angular",
+            "originTitle": "Getting Started with Angular",
+            "url": "https://coursehunter.net/course/nachalo-raboty-s-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson18.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson19.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson20.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson21.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson22.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson23.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson24.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson25.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-getting-started/lesson26.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Маршрутизация Angular приложений",
+            "originTitle": "Routing Angular Applications",
+            "url": "https://coursehunter.net/course/marshrutizaciya-angular-prilozheniy",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson18.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson19.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson20.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson21.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson22.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-routing/lesson23.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular Формы и Валидация",
+            "originTitle": "Angular Forms and Validation",
+            "url": "https://coursehunter.net/course/angular-formy-i-validaciya",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson18.mp4",
+                "https://vs1.coursehunter.net/scotch-io-angular-forms-valid/lesson19.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Работаем с Angular CLI",
+            "originTitle": "Working with the Angular CLI",
+            "url": "https://coursehunter.net/course/rabotaem-s-angular-cli",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-angular-cli-cc/lesson13.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создайте сайт \"битва гифок\" с Angular и Node",
+            "originTitle": "Build a Gif Battle Site with Angular and Node",
+            "url": "https://coursehunter.net/course/sozdayte-sayt-bitva-gifok-s-angular-i-node",
+            "materials": [
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson1.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson2.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson3.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson4.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson5.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson6.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson7.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson8.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson9.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson10.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson11.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson12.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson13.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson14.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson15.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson16.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson17.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson18.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson19.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson20.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson21.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson22.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson23.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson24.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson25.mp4",
+                "https://vs1.coursehunter.net/scotch-io-node-angular/lesson26.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Основы Angular 5 для начинающих",
+            "originTitle": "The Complete Angular 5 Essentials Course For Beginners",
+            "url": "https://coursehunter.net/course/osnovy-angular-5-dlya-nachinayushchih",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson1.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson2.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson3.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson4.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson5.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson6.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson7.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson8.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson9.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson10.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson11.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson12.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson13.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson14.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson15.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson16.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson17.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson18.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson19.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson20.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson21.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson22.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson23.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson24.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson25.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson26.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson27.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson28.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson29.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson30.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson31.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson32.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson33.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson34.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson35.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson36.mp4",
+                "https://vs1.coursehunter.net/udemy-angular-5-essentials-course/lesson37.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular приложение c Angular Material, Angularfire и NgRx",
+            "originTitle": "Angular (Full App) with Angular Material, Angularfire & NgRx",
+            "url": "https://coursehunter.net/course/angular-prilozhenie-c-angular-material-angularfire-i-ngrx",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-app-material-afire-ngrx/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 4 NgRx",
+            "originTitle": "Angular 4 NgRx",
+            "url": "https://coursehunter.net/course/angular-4-ngrx",
+            "materials": [
+                "https://vs1.coursehunter.net/webformyself-angular4-ngrx-cc/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "[Книга] ng-book. Полное руководство по Angular 8 (+Видео)",
+            "originTitle": "ng-book.The complete book on Angular 8 (with video)",
+            "url": "https://coursehunter.net/course/kniga-ng-book-polnoe-rukovodstvo-po-angular-5-video",
+            "materials": [
+                "https://vs1.coursehunter.net/ng-book-5-video-book/angular8.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular (Angular 2+) и NodeJS - MEAN стек руководство",
+            "originTitle": "Angular (Angular 2+) & NodeJS - The MEAN Stack Guide",
+            "url": "https://coursehunter.net/course/udemy-angular-node-mean-stack",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-node/materials.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular RxJs Реактивное программирование и бесплатная электронная книга",
+            "originTitle": "Angular RxJs Reactive Programming & FREE Ebook",
+            "url": "https://coursehunter.net/course/udemy-angular4-rxjs",
+            "materials": [
+                "https://dl1.coursehunter.net/udemy-angular4-rxjs.zip",
+                "https://vs2.coursehunter.net/udemy-angular4-rxjs/code.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создаем еще более крутые приложения с помощью Angular",
+            "originTitle": "Building Awesomer Apps with Angular",
+            "url": "https://coursehunter.net/course/fm-awesomer-apps-with-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson1.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson2.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson3.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson4.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson5.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson6.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson7.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson8.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson9.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson10.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson11.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson12.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson13.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson14.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson15.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson16.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson17.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson18.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson19.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson20.mp4",
+                "https://vs1.coursehunter.net/fm-awesomer-apps-angular/lesson21.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "React, Angular, Vue  - Сравнение и быстрый старт",
+            "originTitle": "React JS vs Angular vs Vue JS – Quickstart & Comparison",
+            "url": "https://coursehunter.net/course/udemy-react-angular-vue",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-var/materials.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Тестируем  приложения на Angular 4",
+            "originTitle": "Testing Angular 4 apps with Jasmine",
+            "url": "https://coursehunter.net/course/udemy-testing-angular-apps",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-testing-angular-apps/udemy-testing-angular-apps.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular ngrx store мастер-класс",
+            "originTitle": "Angular ngrx store masterclass - cover Angular 4",
+            "url": "https://coursehunter.net/course/udemy-angular-ngrx",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular-ngrx/udemy-angular-ngrx.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 4 (2+) Мастер-класс для новичков",
+            "originTitle": "Angular 4 (2+) Master Class for Beginners",
+            "url": "https://coursehunter.net/course/udemy-angular4-plus2-masterclass-forbeginners",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angular4-plus2-masterclass-forbeginners/udemy-angular4-plus2-masterclass-forbeginners.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Redux в Angular (2 и 4+)",
+            "originTitle": "Redux in Angular (2 and 4+)",
+            "url": "https://coursehunter.net/course/udemy-redux-in-angular",
+            "materials": [
+                "https://vs1.coursehunter.net/udemyreduxinangular/udemyreduxinangular.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 4",
+            "originTitle": "Angular 4 Front To Back",
+            "url": "https://coursehunter.net/course/udemy-angularfour-fronttoback",
+            "materials": [
+                "https://vs1.coursehunter.net/udemy-angularfour-fronttoback/udemy-angularfour-fronttoback.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Основы Angular 2",
+            "originTitle": "Angular 2 Fundamentals",
+            "url": "https://coursehunter.net/course/ultimateangular-angular-fundamentals",
+            "materials": [
+                "https://dl1.coursehunter.net/ultimateangular-angular-fundamentals.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Стайлинг и анимация (Angular 2 и Angular 4)",
+            "originTitle": "Styling & Animations (for Angular 2 and Angular 4) (Ангельский)",
+            "url": "https://coursehunter.net/course/udemy-styling-and-animations-angular-2-4",
+            "materials": [
+                "https://vs1.coursehunter.net/materials/udemy-styling-and-animations-angular-2-4.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2 Внедрение зависимостей",
+            "originTitle": "Angular 2 Dependency Injection (DI) Explained",
+            "url": "https://coursehunter.net/course/egghead-angular-2-di",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-angular-2-di/01.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/02.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/03.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/04.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/05.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/06.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/07.mp4",
+                "https://vs1.coursehunter.net/egghead-angular-2-di/08.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Переход с jQuery на AngularJS",
+            "originTitle": "Moving From jQuery to AngularJS",
+            "url": "https://coursehunter.net/course/oreilly-moving-from-jquery-to-angularjs",
+            "materials": [
+                "https://vs1.coursehunter.net/materials/oreilly-moving-from-jquery-to-angularjs.7z"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Мгновенный поиск с Angular 2",
+            "originTitle": "Build an Angular 2 Instant Search Component",
+            "url": "https://coursehunter.net/course/egghead-build-an-angular-2-instant-search-component",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/01.mp4",
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/02.mp4",
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/03.mp4",
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/04.mp4",
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/05.mp4",
+                "https://vs1.coursehunter.net/egghead-build-an-angular-2-instant-search-component/06.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Глубокое понимание директив Angular 2",
+            "originTitle": "Understand Angular 2 Directives in Depth",
+            "url": "https://coursehunter.net/course/egghead-understand-angular-2-directives-in-depth",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson01.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson02.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson03.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson04.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson05.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson06.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson07.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson08.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson09.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson10.mp4",
+                "https://vs1.coursehunter.net/egghead-understand-angular-2-directives-in-depth/lesson11.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Анимация Angular 2 приложений",
+            "originTitle": "Animate Angular 2 Web Applications",
+            "url": "https://coursehunter.net/course/egghead-animate-angular-2-web-app",
+            "materials": [
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson01.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson02.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson03.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson04.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson05.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson06.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson07.mp4",
+                "https://vs1.coursehunter.net/egghead-animate-angular-2-web-app/lesson08.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Reactive Angular 2",
+            "originTitle": "Reactive Angular 2",
+            "url": "https://coursehunter.net/course/fm-reactive-angular2",
+            "materials": [
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson1.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson2.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson3.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson4.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson5.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson6.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson7.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson8.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson9.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson10.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson11.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson12.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson13.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson14.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson15.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson16.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson17.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson18.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson19.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson20.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson21.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson22.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson23.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson24.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson25.mp4",
+                "https://vs1.coursehunter.net/fm-reactive-angular2/lesson26.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Создание потрясающих веб-приложений с помощью Angular 2",
+            "originTitle": "Building Awesome Web Apps with Angular 2",
+            "url": "https://coursehunter.net/course/fm-awesome-angular2",
+            "materials": [
+                "https://vs1.coursehunter.net/fm-awesome-angular2/001.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/002.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/003.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/004.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/005.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/006.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/007.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/008.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/009.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/010.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/011.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/012.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/013.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/014.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/015.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/016.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/017.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/018.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/019.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/020.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/021.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/022.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/023.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/024.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/025.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/026.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/027.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/028.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/029.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/030.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/031.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/032.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/033.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/034.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/035.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/036.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/037.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/038.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/039.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/040.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/041.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/042.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/043.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/044.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/045.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/046.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/047.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/048.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/049.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/050.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/051.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/052.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/053.mp4",
+                "https://vs1.coursehunter.net/fm-awesome-angular2/054.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2 Essential",
+            "originTitle": "Angular 2 Essential",
+            "url": "https://coursehunter.net/course/itvdn-angular2",
+            "materials": [
+                "https://dl1.coursehunter.net/itvdn-angular2.zip",
+                "https://vs1.coursehunter.net/materials/itvdn-angular2.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2 c ngrx",
+            "originTitle": "Reactive Angular 2 with ngrx",
+            "url": "https://coursehunter.net/course/angular2-with-ngrx",
+            "materials": [
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/001.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/002.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/003.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/004.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/005.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/006.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/007.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/008.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/009.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/010.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/011.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/012.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/013.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/014.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/015.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/016.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/017.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/018.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/019.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/020.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/021.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/022.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/023.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/024.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/025.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/026.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/027.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/028.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/029.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/030.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/031.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/032.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/033.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/034.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/035.mp4",
+                "https://vs1.coursehunter.net/fm-angular2-ngrx/036.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2 Формы: Привязка данных и валидация",
+            "originTitle": "Angular 2 Forms: Data Binding and Validation",
+            "url": "https://coursehunter.net/course/lynda-angular2-forms",
+            "materials": [
+                "https://vs1.coursehunter.net/materials/lynda-angular2-forms.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2",
+            "originTitle": "Build Web Apps with Angular 2",
+            "url": "https://coursehunter.net/course/angular2-frontendmasters",
+            "materials": [
+                "https://vs1.coursehunter.net/fm-angular2/_lesson1.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson2.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson3.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson4.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson5.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson6.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson7.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson8.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson9.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson10.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson11.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson12.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson13.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson14.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson15.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson16.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson17.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson18.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson19.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson20.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson21.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson22.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson23.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson24.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson25.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson26.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson27.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson28.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson29.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson30.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson31.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson32.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson33.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson34.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson35.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson36.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson37.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson38.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson39.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson40.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson41.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson42.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson43.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson44.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson45.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson46.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson47.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson48.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson49.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson50.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson51.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson52.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson53.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson54.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson55.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson56.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson57.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson58.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson59.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson60.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson61.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson62.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson63.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson64.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson65.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson66.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson67.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson68.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson69.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson70.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson71.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson72.mp4",
+                "https://vs1.coursehunter.net/fm-angular2/_lesson73.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2 (udemy)",
+            "originTitle": "Complete Angular 2 JS",
+            "url": "https://coursehunter.net/course/angular2udemy",
+            "materials": [
+                "https://vs1.coursehunter.net/materials/angular2udemy.zip"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2",
+            "originTitle": "Accelerating Through Angular 2",
+            "url": "https://coursehunter.net/course/angular2js-codeschool",
+            "materials": [
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson1.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson2.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson3.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson4.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson5.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson6.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson7.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson8.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson9.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson10.mp4",
+                "https://vs1.coursehunter.net/angular2-codeschool/lesson11.mp4"
+            ],
+            "subCategory": ""
+        },
+        {
+            "title": "Angular 2",
+            "originTitle": "Angular 2",
+            "url": "https://coursehunter.net/course/Angular-JS-2-Angel-skiy",
+            "materials": [
+                "https://vs1.coursehunter.net/angular2/lesson1.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson2.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson3.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson4.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson5.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson6.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson7.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson8.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson9.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson10.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson11.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson12.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson13.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson14.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson15.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson16.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson17.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson18.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson19.mp4",
+                "https://vs1.coursehunter.net/angular2/lesson20.mp4"
+            ],
+            "subCategory": ""
+        }
+    ]
+}

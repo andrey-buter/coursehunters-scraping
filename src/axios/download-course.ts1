@@ -1,0 +1,20 @@
+import { download } from "./download-file";
+
+
+export async function downloadCourse(courseName, videoLinks) {
+    for (let index = 0; index < videoLinks.length; index++) {
+        const topic = videoLinks[index];
+        
+        let folder = `${courseName}/${topic.title}`;
+
+        for (let index = 0; index < topic.lectures.length; index++) {
+            const lecture = topic.lectures[index];
+            
+            for (let index = 0; index < lecture.download.length; index++) {
+                const link = lecture.download[index];
+                
+                await download(folder, link);
+            }
+        }
+    }
+}
