@@ -5,10 +5,11 @@ import { GO_TO_PAGE_SETTINGS } from "../settings";
 
 export async function getAllCourses(page: Page, cat: ISubCategory, cache: string[]): Promise<ICourse[]> {
     let courses = [];
-    let currentPage = 1;
-    debugger
 
-    while (true) {
+    await page.goto(`${cat.url}`, GO_TO_PAGE_SETTINGS);
+    const pagesCount = await getPagesCount(page);
+
+    for (let currentPage = 1; currentPage <= pagesCount; currentPage++) {
         const url = `${cat.url}?page=${currentPage}`;
         await page.goto(`${cat.url}?page=${currentPage}`, GO_TO_PAGE_SETTINGS);
         await page.waitForSelector('.hero-title');
@@ -27,7 +28,6 @@ export async function getAllCourses(page: Page, cat: ISubCategory, cache: string
         pageCourses = filterByCache(cache, pageCourses);
 
         courses = courses.concat(pageCourses);
-        currentPage++;
     }
 
     return courses;
@@ -49,7 +49,7 @@ async function getPageCourses(page: Page, cat: ISubCategory): Promise<ICourse[]>
         let courses = [];
 
         document.querySelectorAll('.course').forEach((el) => {
-            const title = el.querySelector('.course-primary-name').textContent.trim(); 
+            const title = el.querySelector('.course-primary-name').textContent.trim();
             const originTitle = el.querySelector('.course-secondary-name').textContent.trim();
             const url = el.querySelector('.course-btn').getAttribute('href');
             courses.push({
@@ -67,4 +67,10 @@ async function getPageCourses(page: Page, cat: ISubCategory): Promise<ICourse[]>
         return courses;
 
     }, [cat.url]);
+}
+
+async function getPagesCount(page) {
+    return await page.evaluate(function (args) {
+        return document.querySelectorAll('.pagination__ul li').length - 2;
+    });
 }

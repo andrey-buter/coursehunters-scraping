@@ -6,6 +6,16 @@ export async function getCategories(page: Page): Promise<IParentCategory[]> {
         let cats: IParentCategory[] = [];
 
         parents.forEach((parent) => {
+            const parentCat = getCategoriesTree(parent);
+
+            cats.push(parentCat);
+        });
+
+        cats = safeFirstSubCatToTest(cats);
+
+        return cats;
+
+        function getCategoriesTree(parent) {
             let parentCat: IParentCategory = {
                 title: parent.textContent.trim(),
                 url: parent.getAttribute('href'),
@@ -26,8 +36,21 @@ export async function getCategories(page: Page): Promise<IParentCategory[]> {
                 courses: []
             } as ISubCategory);
 
-            cats.push(parentCat);
-        });
-        return cats;
+            return parentCat;
+        }
+
+        function safeFirstSubCatToTest(cats: IParentCategory[]) {
+            const cat = cats[0];
+
+            const subCat = cat.subCategories[0];
+
+            return [
+                {
+                    ...cat,
+                    subCategories: [subCat],
+                }
+            ]
+        }
     });
+
 }
